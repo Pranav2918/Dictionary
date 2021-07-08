@@ -2,5 +2,8 @@
 
 This application contains API call and BLoC architecture.
 
-# FlutterDev
- 
+### Screenshots
+
+<img src = "home.png" height="500em" /> </t> <img src="details.png" height="500em" />
+
+## FlutterDev
